@@ -12,7 +12,7 @@ import static es.codegym.telegrambot.TelegramBotContent.*;
 public class MyFirstTelegramBot extends MultiSessionTelegramBot {
 
     public static final String NAME = "JuegoGatoHackerBot";
-    public static final String TOKEN = "7292162779:AAHHIA3FqjoTvKRTZmsw-hW2yDgWI86BJZE";
+    public static final String TOKEN = "Aquí se pone el token brindado por el generador de bots de Telegram de tu preferencia";
 
     public MyFirstTelegramBot() {
         super(NAME, TOKEN);
